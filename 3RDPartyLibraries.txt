@@ -1,0 +1,12 @@
+/////3RD PARTY LIBRARIES//////
+
+
+//////NPM INSTALL -G NSP//////
+
+/////Run npm install -g nsp/////
+
+then run /////nps check/////
+
+
+///// npm install -g snyk ///////
+auditing node_modules directory

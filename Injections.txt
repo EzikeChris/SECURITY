@@ -1,0 +1,29 @@
+////////////// INJECTIONS //////////
+Basically the injection of code into another users codebase or code which is 
+not authorized by the engineer or programmer.
+
+////SQL INJECTION////// A MALICIOUS PRACTICE/////
+//PSQL/// POSTGRESS SQL GUI///
+
+'; DROP TABLE users; ---
+
+
+/////PREVENTING SQL INJECTIONS ////
+
+
+// SANITIZE INPUTS ///
+
+
+/// PARAMETRIZE QUERIES ////
+
+
+/////ORMS///////
+
+
+
+
+
+
+/////3RD PARTY LIBRARIES//////
+
+
